@@ -36,6 +36,7 @@ public:
         cout << "Salry: " << salry << endl;
     }
 };
+
 int main(){
 
     User_Book emp;
